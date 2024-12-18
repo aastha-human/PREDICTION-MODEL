@@ -1,0 +1,5 @@
+
+1. Linear
+2. Multiple
+3. Non-Linear
+4. Stepwise Regression Modeling
